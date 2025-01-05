@@ -89,7 +89,7 @@ plt.show()
 
 
     
-![png](Sentiment_Analysis_RNN_files/Sentiment_Analysis_RNN_5_1.png)
+![png](Pictures/Total Count of Every Condition.png)
     
 
 
