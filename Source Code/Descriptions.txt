@@ -1,0 +1,2 @@
+This is the source code of my simple projects for sentiment analysis.
+The file format is .ipynb, i do this in Google Colab for faster computation.
